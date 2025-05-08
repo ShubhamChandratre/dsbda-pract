@@ -1,0 +1,10 @@
+pip install beautifulsoup4 lxml
+
+Steps:
+1. Go to flipkart page
+2. Select a product
+3. View all reviews
+4. Ctrl+S -> It'll download html file
+5. Name file Flipkart.html
+6. Run pip install beautifulsoup4 lxml
+7. Run python scrapper.py
